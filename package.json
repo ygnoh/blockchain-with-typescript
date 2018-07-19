@@ -8,5 +8,8 @@
   "scripts": {
     "start": "node dist/index.js",
     "prestart": "tsc"
+  },
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
   }
 }
