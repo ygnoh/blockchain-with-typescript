@@ -1,12 +1,12 @@
 {
   "name": "blockchain-with-typescript",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "src/index.js",
   "repository": "https://github.com/ygnoh/blockchain-with-typescript",
   "author": "yonggoonoh <nohyg90@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "node index.js",
+    "start": "node dist/index.js",
     "prestart": "tsc"
   }
 }
